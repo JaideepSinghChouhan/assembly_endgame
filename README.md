@@ -1,12 +1,19 @@
-# React + Vite
+# Assembly End Game 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based word guessing game built as the final capstone project for the [Scrimba React Course](https://scrimba.com/).
 
-Currently, two official plugins are available:
+**Gameplay:**  
+You have 8 chances to guess a random word, one letter at a time. Each wrong guess removes a programming language from the list... until only *Assembly Language* remains. Hence the name — *Assembly End Game*.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Live Demo:** [assemblysendgame.netlify.app](https://assemblysendgame.netlify.app/)
 
-## Expanding the ESLint configuration
+**What I learned:**  
+- React state & props  
+- Event handling  
+- Conditional rendering  
+- Component-based design  
+- Deploying React apps on Netlify  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+I’m continuing to build more React projects — feedback is always welcome! 🚀
